@@ -19,7 +19,7 @@ Declaration (int):
 Process:
     Read length
     Read width
-    assign the input values to side1 and side2
+    assign the input values to length and width
     area ← length × width
 Output:
     Display "The area of the square/rectangle is (data type)", area
