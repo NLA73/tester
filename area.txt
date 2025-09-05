@@ -1,0 +1,25 @@
+Kasus 1: Panjang sisi 1 dan 2 ditulis di program langsung 
+---------------------------------------------------------
+Deklarasi(int):
+    sisi1 ← 5
+    sisi2 ← 8
+    luas
+Proses:
+    luas ← sisi1 × sisi2
+Output:
+    Tampilkan "Luas persegi/persegi panjang adalah (tipe data)", luas
+
+
+
+
+Kasus 2: Input panjang sisi melalui terminal
+------------------------------------------
+Deklarasi(int):
+    sisi1, sisi2, luas : integer
+Proses:
+    Baca sisi1
+    Baca sisi2
+    masukan hasil pembacaan ke data sisi1 dan sisi2
+    luas ← sisi1 × sisi2
+Output:
+    Tampilkan "Luas persegi/persegi panjang adalah (tipe data)", luas
